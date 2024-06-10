@@ -100,7 +100,7 @@ Lớp `RestaurantController` xử lý các yêu cầu HTTP cho việc tải lên
 
 Một lớp hỗ trợ đơn giản để định dạng dữ liệu phản hồi. Nó chứa một thuộc tính `data` để lưu trữ nội dung phản hồi.
 
-
+URL tài liệu tham khảo chi tiết : [https://www.bezkoder.com/spring-boot-file-upload/#google_vignette](https://www.bezkoder.com/spring-boot-file-upload/#google_vignette)
 ## **Code FileService.java**
 ```FileService.java
    // FileService.java
